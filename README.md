@@ -1,1 +1,3 @@
 # Paczkolab
+
+https://join.slack.com/t/coderslab-php/shared_invite/enQtMjc3MjAyNzIxNzY0LWQ3NjE3MjAzYmRlZjJjMWM3NjAyNDgwMTYwM2NkZTU5YTIyNDQ2NDhhZjQ0Y2Q0Zjg3MzIzOWFmMmU1YzhlNTU
